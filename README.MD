@@ -6,6 +6,6 @@
   - [React Development Nanodegree]
 - :white_check_mark: Now I work as FreeLancer - PHP Backend Developer (Laravel) 
 - 📫 How to reach me: 
-  - :email: a.m.k.y.2013@gmail.com
+  -  [LinkedIn] (a.m.k.y.2013@gmail.com)
   - [LinkedIn](https://www.linkedin.com/in/dev-ahmed-khalil-7466a0284/)
   - [WhatsApp](https://api.whatsapp.com/send/?phone=201024846412&text&type=phone_number&app_absent=0)
